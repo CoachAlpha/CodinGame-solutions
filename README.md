@@ -7,4 +7,4 @@ My goal here is to make people understand and get more familiar with coding chal
 **This repository is for education only and nothing else, please respect that.**<br>
 if you have found any problems with the code please contact me or submit an issue.<br><br>
 
-*Created By AlPHA With ❤️**
+**Created By AlPHA With ❤️**
