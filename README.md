@@ -1,4 +1,4 @@
-# CodinGame-SOLUTIONS
+# CodinGame-solutions
 Full Solution of CodinGame with different languages.<br>
 
 **This repository helps you to understand and complete CodinGame challenges.**<br>
